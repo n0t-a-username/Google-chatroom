@@ -1,0 +1,25 @@
+:root {
+  max-width: 384dp;
+  background: #111416;
+    --md-outlined-icon-button-container-width: 50px;
+  --md-outlined-icon-button-container-height: 46px;
+  --md-outlined-icon-button-outline-color: rgba(0, 0, 0, 0);
+  --md-outlined-text-field-container-shape: 30px;
+  --md-sys-color-primary: #2E3133;
+  --md-outlined-text-field-label-text-color: #FFFFFF;
+  --md-outlined-text-field-input-text-color: #ffffff;
+  --md-outlined-text-field-focus-outline-color: rgba(0, 0, 0, 0);
+  --md-outlined-text-field-input-text-placeholder-color: #fff;
+  --md-outlined-text-field-focus-input-text-color: #fff;
+  --md-outlined-text-field-outline-color: rgba(0, 0, 0, 0);
+  --md-outlined-text-field-input-text-size: 20px;
+  
+.chatsys {
+  position: fixed;
+  border-radius: 30px;
+  height: 46px;
+  background-color: #2E3133;
+  bottom: 10px;
+}
+
+} 
